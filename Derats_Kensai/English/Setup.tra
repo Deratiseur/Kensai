@@ -1,0 +1,13 @@
+@0009 = ~This module requires BG2, BGT, BG2EE, EET, or IWDEE~
+@0 = ~Gives kensai abilities to any class~
+@1 = ~Kensaisator Ring~
+@2 = ~Put this ring on your finger to become a kensai.
+
+PARAMETERS:
+
+Gives the abilities of a kensai to any class:
+- Armor Class: +2
+- Hit and damage: +1 every 3 levels
+- Initiative: +1 and +1 every 4 levels
+- Kai ability every 4 levels
+- Cannot wear bracelets, armor, or robes (even with the “Use All Items” hla).~

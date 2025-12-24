@@ -1,0 +1,13 @@
+@0009 = ~Ce module necessite BG2, BGT, BG2EE, EET ou IWDEE~
+@0 = ~Donne les capacites du kensai a n'importe quelle classe~
+@1 = ~Anneau Kensaisateur~
+@2 = ~Mettez cet anneau à un doigt pour devenir un kensaï.
+
+PARAMÈTRES :
+
+Donne les capacités d'un kensaÏ à n'importe quelle classe :
+- Classe d'Armure : +2
+- Toucher et dégâts : +1 tous les 3 niveaux
+- Initiative : +1 et +1 tous les 4 niveaux
+- Capacité Kaî tous les 4 niveaux
+- Impossibilité de porter bracelet, armure et robe (même avec la hla "Utilisation de tous les objets".)~

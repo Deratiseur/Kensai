@@ -1,0 +1,28 @@
+Ce module permet de donner toutes les capacités et inconvénients du kensaï à n'importe quelle classe.
+
+Pour procéder, achetez l'Anneau Kensaïsateur :
+- à Talantir dans BG2EE
+- à Ribald dans BG2EE
+- à Orrick le Gris dans IWDEE.
+
+ensuite faite équiper l'anneau à n'importe quelle personnage auquel vous voulez donner les attributs d'un kensai : il gagne alors :
+- Classe d'Armure : +2
+- Toucher et dégâts : +1 tous les 3 niveaux
+- Initiative : +1 et +1 tous les 4 niveaux (Corrigé et fonctionnel (car bugué dans le jeu de base))
+- Capacité Kaî tous les 4 niveaux
+- Impossibilité de porter bracelets, armures et robes (même avec la hla "Utilisation de tous les objets".)
+
+
+----------------------------
+
+L'anneau ne sert qu'une fois par personnage : équipez le, réutilisez le sur d'autres personnages si vous voulez, puis revendez le.
+
+Équiper l'anneau vous fait déséquiper tous vos objets : ceci pour éviter la triche de porter quand même armure et bracelets "en rouge mais jamais enlevés".
+
+Les bonus "par niveau" sont gérés par script et la manière dont le jeu calcule les niveaux est particulière, ainsi :
+- Un personnage de classe unique bénéficiera des pleins bonus pour des dégâts +16 au niveau 48.
+- Un personnage multiclassé bénéficiera des bonus divisé par deux, pour des dégâts +7 aux niveaux 21/24 (c'est la classe la moins efficace qui compte)
+- Les personnages de classes jumelées "buguent" pour une raison qui m'échappe. Ainsi Imoen, lvl 7 de voleur puis lvl 31 de mage n'a que dégâts +6 en finalité. Je ne sais pas pourquoi.
+
+
+
