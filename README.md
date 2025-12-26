@@ -11,7 +11,7 @@
 
 ## Description:
 -------------
-Ce module permet de donner toutes les capacités et inconvénients du kensaï à n'importe quelle classe.
+Ce module permet de donner toutes les capacités et inconvénients du kensaï à n'importe quel personnage, en plus de sa classe normale.
 
 Pour procéder, achetez l'Anneau Kensaïsateur :
 - à Talantir dans BG1(EE)
@@ -27,7 +27,7 @@ ensuite faite équiper l'anneau à n'importe quelle personnage auquel vous voule
 
 -------------
 
-This module allows you to give all the abilities and disadvantages of the kensai to any class.
+This module allows you to give all the abilities and disadvantages of the kensai to any character, in addition to his or her normal class.
 
 To do so, purchase the Kensaïsator Ring:
 - from Talantir in BG1(EE)
