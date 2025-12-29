@@ -25,6 +25,8 @@ ensuite faite équiper l'anneau à n'importe quelle personnage auquel vous voule
 - Capacité Kaî tous les 4 niveaux
 - Impossibilité de porter bracelets, armures et robes (même avec la hla "Utilisation de tous les objets".)
 
+Vous pouvez ensuite enlever l'anneau, il ne sert plus (ou vous pouvez l'utiliser pour un autre personnage).
+
 -------------
 
 This module allows you to give all the abilities and disadvantages of the kensai to any character, in addition to his or her normal class.
@@ -40,3 +42,5 @@ Then equip the ring on any character you want to give the attributes of a kensai
 - Initiative: +1 and +1 every 4 levels (Corrected and functional (as it was bugged in the base game))
 - Kai ability every 4 levels
 - Inability to wear bracelets, armor, and robes (even with the “Use All Items” hla).
+
+You can then remove the ring, as it is no longer needed (or you can use it for another character).
