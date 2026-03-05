@@ -18,7 +18,7 @@ Pour procéder, achetez l'Anneau Kensaïsateur :
 - à Ribald dans BG2(EE)
 - à Orrick le Gris dans IWDEE.
 
-ensuite faite équiper l'anneau à n'importe quelle personnage auquel vous voulez donner les attributs d'un kensai : il gagne alors :
+ensuite faite équiper l'anneau à n'importe quel personnage auquel vous voulez donner les attributs d'un kensaï : il gagne alors :
 - Classe d'Armure : +2
 - Toucher et dégâts : +1 tous les 3 niveaux
 - Initiative : +1 et +1 tous les 4 niveaux (Corrigé et fonctionnel (car bugué dans le jeu de base))
