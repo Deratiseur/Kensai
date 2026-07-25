@@ -29,7 +29,7 @@ Then equip the ring on any character you want to give the attributes of a kensai
 
 - Armor Class: +2
 - Hit and damage: +1 every 3 levels
-- Initiative: +1 and +1 every 4 levels (Corrected and functional (as it was bugged in the base game))
+- Initiative: +1 and +1 every 4 levels (Corrected and functional (as it is bugged in the base game))
 - Kai ability every 4 levels
 - Inability to wear bracelets, armor, and robes (even with the "Use All Items" HLA).
 
